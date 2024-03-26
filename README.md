@@ -1,4 +1,4 @@
-# Go_scanner
+# GOHUNTER
 A tool for port scanning and password scanning
 
 1.port scanner:
